@@ -1,0 +1,13 @@
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.Business.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.Business.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.Data.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.DataOperations.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.ValueContracts.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.Utility.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.DataOperations.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.Data.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.ValueContracts.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\bin\Debug\MAF.InMemory.Storage.Utility.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\obj\Debug\Tranquillity.InMemory.Storage.Business.csprojResolveAssemblyReference.cache
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\obj\Debug\MAF.InMemory.Storage.Business.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Business\obj\Debug\MAF.InMemory.Storage.Business.pdb

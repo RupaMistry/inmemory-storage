@@ -1,0 +1,44 @@
+﻿
+<div class="panel panel-searchVal">
+    <div class="panel-heading">Filter By NameSpace and Key</div>
+    <div class="panel-body">
+
+        <span style="color:red">{{GetResponseMessage}}</span>
+        <br />
+        <input type="text" name="NameSpace" class="form-control"  maxlength="10" ng-model="FilterParams.NameSpace" placeholder="Enter Namespace" />
+
+        <input type="text" name="Key" class="form-control" maxlength="10"  ng-model="FilterParams.Key" placeholder="Enter Key" />
+
+        <input type="button" value="Get Value" ng-click="onFilterByNameSpaceClick()" class="btn btn-primary" />
+
+        <br /><br />
+        <aside id="info-block">
+            <section class="file-marker">
+                <div>
+                    <div class="box-title">
+                        Product Details
+                    </div>
+                    <div class="box-contents">
+                        <div id="audit-trail">
+                        </div>
+                        <div class="form-group">
+                            <b> Name: </b> {{ValueResponse.Name}}
+                            <br />
+                            <b>
+                                Description:
+                            </b> {{ValueResponse.Description}}
+
+                            <br />
+                            <b>
+                                Price:
+                            </b> {{ValueResponse.Price}}
+
+                            <br />
+                            <b> Unit: </b>  {{ValueResponse.Unit}}
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </aside>
+    </div>
+</div>

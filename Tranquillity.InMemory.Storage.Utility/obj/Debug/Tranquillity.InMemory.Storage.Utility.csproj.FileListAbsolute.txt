@@ -1,0 +1,6 @@
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Utility\bin\Debug\MAF.InMemory.Storage.Utility.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Utility\bin\Debug\MAF.InMemory.Storage.Utility.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Utility\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Utility\obj\Debug\Tranquillity.InMemory.Storage.Utility.csprojResolveAssemblyReference.cache
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Utility\obj\Debug\MAF.InMemory.Storage.Utility.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.Utility\obj\Debug\MAF.InMemory.Storage.Utility.pdb

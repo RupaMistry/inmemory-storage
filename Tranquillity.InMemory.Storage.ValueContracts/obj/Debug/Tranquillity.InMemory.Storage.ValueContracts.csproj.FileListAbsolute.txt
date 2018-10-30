@@ -1,0 +1,5 @@
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.ValueContracts\bin\Debug\MAF.InMemory.Storage.ValueContracts.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.ValueContracts\bin\Debug\MAF.InMemory.Storage.ValueContracts.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.ValueContracts\obj\Debug\Tranquillity.InMemory.Storage.ValueContracts.csprojResolveAssemblyReference.cache
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.ValueContracts\obj\Debug\MAF.InMemory.Storage.ValueContracts.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.ValueContracts\obj\Debug\MAF.InMemory.Storage.ValueContracts.pdb

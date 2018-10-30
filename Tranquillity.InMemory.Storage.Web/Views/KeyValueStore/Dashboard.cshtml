@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Key Value Store Dashboard";
+}
+<h2 style="text-align:center">In-Memory Key-Value Store Dashboard</h2>
+
+<br />
+<div ng-app="" ng-controller="KeyValueStoreController">
+
+    <div>
+        @{Html.RenderPartial("_AddKeyValuePartialView");}
+
+        <div>
+            @{Html.RenderPartial("_GetValuePartialView");}
+        </div>
+
+        <div>
+            @{Html.RenderPartial("_GetAllKeyValues");}
+        </div>
+
+    </div>
+</div>

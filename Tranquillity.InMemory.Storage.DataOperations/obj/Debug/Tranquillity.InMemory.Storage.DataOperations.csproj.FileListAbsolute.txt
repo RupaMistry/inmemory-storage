@@ -1,0 +1,11 @@
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.DataOperations.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.DataOperations.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.Data.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.Utility.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.ValueContracts.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.Data.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.Utility.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\bin\Debug\MAF.InMemory.Storage.ValueContracts.pdb
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\obj\Debug\Tranquillity.InMemory.Storage.DataOperations.csprojResolveAssemblyReference.cache
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\obj\Debug\MAF.InMemory.Storage.DataOperations.dll
+C:\Users\RUPA\Downloads\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage\Tranquillity.InMemory.Storage.DataOperations\obj\Debug\MAF.InMemory.Storage.DataOperations.pdb

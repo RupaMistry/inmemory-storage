@@ -1,0 +1,49 @@
+﻿
+<div class="panel panel-addNew">
+    <div class="panel-heading">Add or Update a Key-Value</div>
+    <div class="panel-body" name="userForm">
+
+        <span class="text-success">{{AddUpdateResponseMessage}}</span>
+
+        <form name="saveForm" ng-submit="onSaveClick(KeyValueDataModel)" novalidate>
+
+            <div class="form-group">
+                <span class="span-red">*</span>
+
+                <input type="text" name="NameSpace" maxlength="10" class="form-control" ng-model="KeyValueDataModel.NameSpace" ng-required placeholder="Enter Parent Category (Namespace)" style="width:255px" />
+
+                <span class="span-red">*</span>
+
+                <input type="text" name="Key"  maxlength="10" class="form-control" ng-model="KeyValueDataModel.Key" ng-required placeholder="Enter Sub Category (Key)" style="width:255px" />
+            </div>
+
+            <aside id="info-block">
+                <section class="file-marker">
+                    <div>
+                        <div class="box-title">
+                            Product Details
+                        </div>
+                        <div class="box-contents">
+                            <div id="audit-trail">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" name="productName" class="form-control" ng-model="KeyValueDataModel.Value.Name" ng-required placeholder="Enter Name" />
+
+                                <input type="text" name="description" class="form-control" ng-model="KeyValueDataModel.Value.Description" ng-required placeholder="Enter Description" />
+
+                                <br />
+                                <input type="number" name="price" class="form-control" ng-model="KeyValueDataModel.Value.Price" ng-required placeholder="Enter Price" />
+
+                                <input type="number" name="unit" class="form-control" ng-model="KeyValueDataModel.Value.Unit" ng-required placeholder="Enter Unit" />
+                            </div>
+                        </div>
+                    </div>
+
+                </section>
+            </aside>
+
+            <br />
+            <button type="submit" value="Save" class="btn btn-primary">Save</button>
+        </form>
+    </div>
+</div>
